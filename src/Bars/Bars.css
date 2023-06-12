@@ -1,0 +1,40 @@
+.fullside{
+    background-color: #2677E5;
+    width: 30vh;
+    height: 100vh; 
+    color: white;
+}
+.totalsidenav{
+display: flex;
+flex-direction: row;
+margin: 2rem;
+display: flex;
+flex-direction: row;
+
+}
+.navs{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+.navbars{
+display: flex;
+flex-direction: row;
+padding: 10px;
+position: fixed;
+left: 14rem;
+background-color: white;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+height: 90px;
+width: 100vw;
+}
+.badge{
+    position: fixed;
+    left: 80rem;
+}
+.mailbox{
+    position: fixed;
+    left: 85rem; 
+}
